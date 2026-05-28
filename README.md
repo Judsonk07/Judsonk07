@@ -1,6 +1,6 @@
 # Hi 👋, I'm Judson
 
-<h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | Full Stack Developer</h3>
+<h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;Building+Cloud+Native+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -14,8 +14,8 @@
 * 🌱 Learning **Kubernetes, Terraform, CI/CD & AWS**
 * 💻 Passionate about **Automation & Infrastructure**
 * 🚀 Interested in **Cloud Native Technologies**
-* 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
-* 🌐 Portfolio: **[https://your-portfolio-link.com](https://your-portfolio-link.com)**
+* 📫 Reach me at: **[your-email@example.com](mailto:judsonkoilraj573@gmail.com)**
+* 🌐 Portfolio: **[https://your-portfolio-link.com](https://judsonk.netlify.app)**
 
 ---
 
@@ -86,13 +86,13 @@
 # 🌍 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
+<a href="https://linkedin.com/in/judsonk07" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="https://github.com/Judsonk07" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
-<a href="mailto:your-email@example.com" target="blank">
+<a href="mailto:judsonkoilraj573@gmail.com" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
