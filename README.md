@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6a11cb,50:2575fc,100:00c6ff&height=240&section=header&text=Judson%20K&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Data%20Analyst&descAlignY=60&descSize=18&descColor=e0e8ff" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2500&pause=800&color=2575FC&background=00000000&center=true&vCenter=true&width=800&lines=☁️+AWS+Certified+Cloud+%26+DevOps+Engineer;🤖+AI+%26+ML+Engineer+%7C+Prompt+Engineer;📊+Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;👁️+Computer+Vision+with+OpenCV;🐳+Docker+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;🧠+LLMs+%7C+RAG+%7C+LangChain+%7C+AI+Tools;🚀+MLOps%3A+Where+AI+meets+DevOps" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/header.svg" alt="Judson K - Cloud, DevOps and AI/ML Engineer" width="100%"/>
 
 <br/>
 
@@ -11,11 +9,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-38BDAE?style=for-the-badge&logo=netlify&logoColor=white)](https://judsonk.netlify.app)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:judsonkoilraj573@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/skills-marquee.svg" alt="Skills" width="100%"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 👨‍💻 About Me
 
@@ -57,28 +55,15 @@ class JudsonK:
 
 <br clear="right"/>
 
----
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 🧭 My Journey
 
-```mermaid
-flowchart LR
-    A[☁️ AWS re/Start] --> B[🏆 Cloud Practitioner]
-    B --> C[⚙️ DevOps Engineer]
-    C --> D[📊 Data Analytics]
-    D --> E[🤖 AI / ML Engineering]
-    E --> F[👁️ Computer Vision]
-    F --> G[🚀 MLOps: AI + DevOps]
-    style A fill:#6a11cb,color:#fff
-    style B fill:#6a11cb,color:#fff
-    style C fill:#2575fc,color:#fff
-    style D fill:#2575fc,color:#fff
-    style E fill:#00c6ff,color:#000
-    style F fill:#00c6ff,color:#000
-    style G fill:#38BDAE,color:#000
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/journey.svg" alt="Journey" width="100%"/>
+</div>
 
----
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 🛠️ Tech Stack
 
@@ -172,7 +157,7 @@ flowchart LR
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 🎯 Skill Focus Areas
 
@@ -188,27 +173,17 @@ flowchart LR
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 📊 Skill Proficiency
 
 <div align="center">
-
-| Skill | Level |
-|:------|:------|
-| ☁️ AWS and Cloud | ![](https://geps.dev/progress/80?successColor=6a11cb&dangerColor=6a11cb&warningColor=6a11cb) |
-| ⚙️ DevOps and IaC | ![](https://geps.dev/progress/85?successColor=2575fc&dangerColor=2575fc&warningColor=2575fc) |
-| 🐍 Python | ![](https://geps.dev/progress/80?successColor=3776AB&dangerColor=3776AB&warningColor=3776AB) |
-| 📊 Data Analysis | ![](https://geps.dev/progress/75?successColor=38BDAE&dangerColor=38BDAE&warningColor=38BDAE) |
-| 🤖 AI / ML | ![](https://geps.dev/progress/70?successColor=00c6ff&dangerColor=00c6ff&warningColor=00c6ff) |
-| 👁️ OpenCV | ![](https://geps.dev/progress/70?successColor=5C3EE8&dangerColor=5C3EE8&warningColor=5C3EE8) |
-| ✨ Prompt Engineering | ![](https://geps.dev/progress/85?successColor=D97757&dangerColor=D97757&warningColor=D97757) |
-
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/skill-bars.svg" alt="Skill proficiency" width="700"/>
 </div>
 
 <!-- Adjust the numbers above (0-100) to honestly reflect your current level -->
 
----
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 📊 GitHub Stats
 
@@ -221,23 +196,19 @@ flowchart LR
   <img src="https://streak-stats.demolab.com?user=Judsonk07&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=6a11cb&fire=2575fc&currStreakLabel=6a11cb&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" alt="streak"/>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/divider.svg" width="100%" alt=""/>
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Judsonk07&theme=tokyo-night&bg_color=0d1117&color=6a11cb&line=2575fc&point=38bdae&area=true&hide_border=true" alt="activity"/>
-</div>
-
----
-
-## 🏆 Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Judsonk07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Judsonk07/Judsonk07/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Judsonk07/Judsonk07/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/output/github-snake.svg" />
+  </picture>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 💼 Work Experience
 
@@ -277,7 +248,7 @@ flowchart LR
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 🚀 Featured Projects
 
@@ -310,7 +281,7 @@ flowchart LR
 </div>
 -->
 
----
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 🏅 Achievements
 
@@ -326,7 +297,7 @@ flowchart LR
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 🎓 Education
 
@@ -339,7 +310,7 @@ flowchart LR
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 🧠 Currently Learning
 
@@ -351,7 +322,7 @@ flowchart LR
   GitOps and DevSecOps   --> ArgoCD, Trivy, OPA, SAST/DAST in CI Pipelines
 ```
 
----
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 💡 What I Do Best
 
@@ -365,7 +336,7 @@ flowchart LR
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/divider.svg" width="100%" alt=""/>
 
 ## 📬 Connect With Me
 
@@ -375,14 +346,10 @@ flowchart LR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-judsonk07-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/judsonk07)
 [![Portfolio](https://img.shields.io/badge/Portfolio-judsonk.netlify.app-38BDAE?style=for-the-badge&logo=netlify&logoColor=white)](https://judsonk.netlify.app)
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Open+to+DevOps%2C+Cloud%2C+AI+%26+Data+opportunities;Let's+build+something+intelligent+together+🚀" alt="Footer typing" />
-
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=130&section=footer&animation=fadeIn" alt="footer"/>
+  <img src="https://raw.githubusercontent.com/Judsonk07/Judsonk07/main/assets/footer.svg" alt="Footer" width="100%"/>
 </div>

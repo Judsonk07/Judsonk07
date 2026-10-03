@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="286" viewBox="0 0 700 286" role="img" aria-label="Skill proficiency"><style>.s{font-family:'Segoe UI',Verdana,Arial,sans-serif}</style><text x="10" y="37" class="s" font-size="15" font-weight="600" fill="#8b949e">AWS &amp; Cloud</text>
+<rect x="210" y="20" width="400" height="22" rx="11" fill="#8b949e" fill-opacity="0.2"/>
+<rect x="210" y="20" width="320" height="22" rx="11" fill="#6a11cb"><animate attributeName="width" values="0;0;320" keyTimes="0;0.000;1" dur="1.6s"/></rect>
+<text x="620" y="37" class="s" font-size="14" font-weight="700" fill="#6a11cb">80%</text><text x="10" y="75" class="s" font-size="15" font-weight="600" fill="#8b949e">DevOps &amp; IaC</text>
+<rect x="210" y="58" width="400" height="22" rx="11" fill="#8b949e" fill-opacity="0.2"/>
+<rect x="210" y="58" width="340" height="22" rx="11" fill="#2575fc"><animate attributeName="width" values="0;0;340" keyTimes="0;0.111;1" dur="1.8s"/></rect>
+<text x="620" y="75" class="s" font-size="14" font-weight="700" fill="#2575fc">85%</text><text x="10" y="113" class="s" font-size="15" font-weight="600" fill="#8b949e">Python</text>
+<rect x="210" y="96" width="400" height="22" rx="11" fill="#8b949e" fill-opacity="0.2"/>
+<rect x="210" y="96" width="320" height="22" rx="11" fill="#3776AB"><animate attributeName="width" values="0;0;320" keyTimes="0;0.200;1" dur="2.0s"/></rect>
+<text x="620" y="113" class="s" font-size="14" font-weight="700" fill="#3776AB">80%</text><text x="10" y="151" class="s" font-size="15" font-weight="600" fill="#8b949e">Data Analysis</text>
+<rect x="210" y="134" width="400" height="22" rx="11" fill="#8b949e" fill-opacity="0.2"/>
+<rect x="210" y="134" width="300" height="22" rx="11" fill="#38BDAE"><animate attributeName="width" values="0;0;300" keyTimes="0;0.273;1" dur="2.2s"/></rect>
+<text x="620" y="151" class="s" font-size="14" font-weight="700" fill="#38BDAE">75%</text><text x="10" y="189" class="s" font-size="15" font-weight="600" fill="#8b949e">AI / ML</text>
+<rect x="210" y="172" width="400" height="22" rx="11" fill="#8b949e" fill-opacity="0.2"/>
+<rect x="210" y="172" width="280" height="22" rx="11" fill="#00c6ff"><animate attributeName="width" values="0;0;280" keyTimes="0;0.333;1" dur="2.4s"/></rect>
+<text x="620" y="189" class="s" font-size="14" font-weight="700" fill="#00c6ff">70%</text><text x="10" y="227" class="s" font-size="15" font-weight="600" fill="#8b949e">OpenCV</text>
+<rect x="210" y="210" width="400" height="22" rx="11" fill="#8b949e" fill-opacity="0.2"/>
+<rect x="210" y="210" width="280" height="22" rx="11" fill="#5C3EE8"><animate attributeName="width" values="0;0;280" keyTimes="0;0.385;1" dur="2.6s"/></rect>
+<text x="620" y="227" class="s" font-size="14" font-weight="700" fill="#5C3EE8">70%</text><text x="10" y="265" class="s" font-size="15" font-weight="600" fill="#8b949e">Prompt Engineering</text>
+<rect x="210" y="248" width="400" height="22" rx="11" fill="#8b949e" fill-opacity="0.2"/>
+<rect x="210" y="248" width="340" height="22" rx="11" fill="#D97757"><animate attributeName="width" values="0;0;340" keyTimes="0;0.429;1" dur="2.8s"/></rect>
+<text x="620" y="265" class="s" font-size="14" font-weight="700" fill="#D97757">85%</text></svg>
